@@ -8,3 +8,4 @@ def printEvenOdd(n):
     printEvenOdd(n-1)
 
 
+printEvenOdd(10)
